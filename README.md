@@ -1,2 +1,1 @@
-# sveltekit-docker-example
-Dockerfile example for SvelteKit project
+This repository provides an example Dockerfile and configuration for building a Docker image of a SvelteKit project. The Dockerfile includes instructions for installing dependencies, building the project, and serving it with a production server. This example can serve as a starting point for building and deploying SvelteKit applications using Docker.
